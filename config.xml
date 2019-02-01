@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<extension>
+    <id>remita</id>
+    <version>1.0.0</version>
+	<type>payment</type>
+	<category>payment</category>
+    <cartversions>
+	    <item>1.0.0</item>
+   </cartversions>
+    <layout></layout>
+    <priority>10</priority>
+    <settings>
+        <item id="remita_status">
+            <type>checkbox</type>
+            <default_value>0</default_value>
+        </item>
+        <item id="remita_environment">
+            <type>selectbox</type>
+            <variants>
+                <item>test</item>
+                <item>live</item>
+
+            </variants>
+        </item>
+        <item id="remita_secretkey">
+            <type>input</type>
+        </item>
+        <item id="remita_publickey">
+            <type>input</type>
+        </item>
+        <item id="remita_order_status_id">
+            <type>selectbox</type>
+            <variants>
+                <item>1</item>
+                <item>2</item>
+                <item>5</item>
+            </variants>
+            <default_value>2</default_value>
+        </item>
+    </settings>
+	<note>true</note>
+</extension>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<definitions>
+    <definition>
+        <key>text_title</key>
+        <value><![CDATA[Master Card, Visa and Verve (Pay with Remita)<br/><img src="extensions/remita/image/remita-payment-options.png" alt="Remita Image..." />]]></value>
+    </definition>
+</definitions>

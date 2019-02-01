@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>remita_name</key>
+		<value><![CDATA[Remita Payments]]></value>
+	</definition>
+	<definition>
+		<key>remita_note</key>
+		<value><![CDATA[Make sure you have all the API keys correctly, for the plugin to work]]></value>
+	</definition>
+	<definition>
+		<key>remita_environment</key>
+		<value><![CDATA[Environment :]]></value>
+	</definition>
+	<definition>
+		<key>remita_environment_test</key>
+		<value><![CDATA[Test]]></value>
+	</definition>
+	<definition>
+		<key>remita_environment_live</key>
+		<value><![CDATA[Live]]></value>
+	</definition>
+	<definition>
+		<key>remita_status</key>
+		<value><![CDATA[Disable]]></value>
+	</definition>
+	<definition>
+		<key>remita_secretkey</key>
+		<value><![CDATA[Secret Key:]]></value>
+	</definition>
+	<definition>
+		<key>remita_publickey</key>
+		<value><![CDATA[Public Key:]]></value>
+	</definition>
+	<definition>
+		<key>remita_order_status_id</key>
+		<value><![CDATA[Order Status on Successful Payment:]]></value>
+	</definition>
+	<definition>
+		<key>remita_order_status_id_1</key>
+		<value><![CDATA[Pending]]></value>
+	</definition>
+	<definition>
+		<key>remita_order_status_id_2</key>
+		<value><![CDATA[Processing]]></value>
+	</definition>
+	<definition>
+		<key>remita_order_status_id_5</key>
+		<value><![CDATA[Complete]]></value>
+	</definition>
+</definitions>
