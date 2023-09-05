@@ -1,6 +1,5 @@
 # Remita AbanteCart Payment Gateway
 
-
 ---
 - [Summary](#summary)
 - [Plugin Features](#Plugin Features)
